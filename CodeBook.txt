@@ -1,0 +1,18 @@
+
+Original dataset "Human Activity Recognition Using Smartphones Data Set"
+(http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
+
+Tidy dataset created from original by aggregating measurements on activity type, subject number, measurement type(variable).
+
+1) "Activity type" can be:
+ - WALKING
+
+ - WALKING_UPSTAIRS
+ - WALKING_DOWNSTAIRS
+ - SITTING
+
+ - STANDING
+ - LAYING
+
+2) "Subject" contains numbers from 1 to 30 - represents study participants.
+3) "Variable" means type of measurement - 11 means and std of body behaviour by 3 coordinates. Total 66 variables.
